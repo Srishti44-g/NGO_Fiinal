@@ -1,0 +1,22 @@
+/* Base styles (mobile first) */
+
+/* Tablets (portrait) */
+@media (min-width: 600px) {
+    /* Adjust layout for medium screens */
+  }
+  
+  /* Tablets (landscape) and small laptops */
+  @media (min-width: 768px) {
+    /* Slightly bigger fonts or grid changes */
+  }
+  
+  /* Desktops */
+  @media (min-width: 1024px) {
+    /* Full layout grid */
+  }
+  
+  /* Large desktops */
+  @media (min-width: 1280px) {
+    /* Optional tweaks for huge screens */
+  }
+  
